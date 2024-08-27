@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mamadu djalo
 - 👀 I’m interested in Programming, Networking, cybersecurity and télécommunications
 - 🌱 I’m currently learning programming and cybersecurity.
-- 💞️ I’m looking to collaborate on project about développement, network security and software security.
+- 💞️ I’m looking to collaborate on projects about développement, network security and software security.
 - 📫 How to reach me: mamaduselodjalo0@gmail.com ...
 
 
